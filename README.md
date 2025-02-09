@@ -1,4 +1,1 @@
-# Hi my name is Faisal Saqallah.
-# Iam a Student at KFUPM.
-# My major is Software Engineering.
-# Ask me about Java and Python.
+# Highly motivated Software Engineering expected graduate with a concentration in Cloud Computing, committed to continuous learning and expanding expertise in cloud infrastructure, web development, and software architecture. Eager to contribute to a dynamic, collaborative environment by leveraging strong problem-solving, communication, and teamwork skills.
